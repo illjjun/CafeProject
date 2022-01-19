@@ -1,0 +1,40 @@
+@charset "EUC-KR";
+
+body{
+	background-image:url('https://cdn.notefolio.net/img/4e/b2/4eb29d009663e0ec4670e804b7525d5a7e7ebbefc7b0465c0942ffcd02698795_v1.jpg')
+}
+h1{
+	font-family: 'Nanum Pen Script', cursive;
+}
+.bound{
+    border-collapse: collapse;
+    border:1px solid #FBE9D3;
+    height: 460px;
+    width: 260px;
+    background-color: #FEEDAE;
+    color:black;
+    font-style: inherit;
+}
+#tbdlg,#tbdlghead,#tbdlgbody{
+border-collapse: collapse;
+border: 1px solid black;}
+#selsummary,#sum_customer{
+width:300px}
+#trtr{
+	font-size:10px}
+#selMenu,#selOrder,#selSales,#selMenu1 {
+    width: 240px;
+}
+#selMenu,#selSales,#selOrder{
+    background-color: #FBEBD7;
+    color:black;
+    font-style: oblique;
+}
+#btnMenu,#btnGO,#clean,#summary,#btnCancel,#btnDone,#btnReset,#btnAdd{
+	border-radius: 20px;
+}
+
+.mm{
+	font-family: 'Sunflower', sans-serif;
+}
+
